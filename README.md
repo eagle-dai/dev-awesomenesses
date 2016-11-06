@@ -1,6 +1,6 @@
 # dev-awesomenesses
 
-awesome things viewed, collected and learned.
+awesome things noted, reviewed, learned and formulated.
 
-- [awesome-cppcon] - Picked and starred presentations of CppCon 2016.
+- [awesome-cppcon](awesome-cppcon.md) - Picked and starred presentations of CppCon 2016.
 
