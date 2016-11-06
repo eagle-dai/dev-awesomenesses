@@ -6,13 +6,10 @@
 
 ## Gu Lu's Picked List
 
-- prefer lightweight facilities to heavyweight libraries/frameworks (things like boost/qt/etc.)
-- prefer immediately adoptable practices to underground theoretical implementation details
 - :star: 'must-reads' in this list (8 out of 18).
 
 Tags | Category | Title | Note
 -------- | -------- | ----- | ----
- | General | [**The Evolution of C++ - Past, Present, and Future**][bj] by Bjarne Stroustrup ([video][bj_video]) | 
  | Tutorial | [**A \<chrono\> Tutorial**][chrono] by Howard Hinnant ([video][chrono_video]) | [`std::chrono` Reference][chrono_ref]
  | Tutorial | [**tuple, What's New, And How It Works**][tuple] by Stephan T. Lavavej ([video][tuple_video]) | [`std::tuple` Reference][tuple_ref]
  | Tutorial | [**Variants - Past, Present, and Future**][variant] by David Sankel ([video][variant_video]) | [`std::variant` Reference][variant_ref]
@@ -30,8 +27,11 @@ Tags | Category | Title | Note
  | Heterogeneous | [**Towards Heterogeneous Programming in C++**][heterogeneous] by Gordon Brown and Michael Wong ([video][heterogeneous_video]) | 
 :star: | GameDev | [**Game Engine Using C++11**][game_engine] by Jason Jurecka(Blizzard) ([video][game_engine_video]) | 
 :star: | GameDev/Opt | [**Rainbow Six Siege - Quest for Performance**][r6] by Nicolas Fleury ([video][r6_video]) | 
+ | General | [**The Evolution of C++ - Past, Present, and Future**][bj] by Bjarne Stroustrup ([video][bj_video]) | 
 
-Pull-requests are welcome. 
+- Pull-requests are welcome. 
+- Prefer lightweight facilities to heavyweight libraries/frameworks (like boost/qt/etc.).
+- Prefer immediately adoptable practices to underground theoretical implementation details.
 
 [chrono]: https://github.com/CppCon/CppCon2016/blob/master/Tutorials/A%20chrono%20Tutorial/A%20chrono%20Tutorial%20-%20Howard%20Hinnant%20-%20CppCon%202016.pdf
 [chrono_video]: https://www.youtube.com/watch?v=P32hvk8b13M
