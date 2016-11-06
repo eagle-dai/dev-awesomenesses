@@ -58,6 +58,7 @@ Tags | Category | Title | Note
 
 ## Featured Articles (mostly in Chinese)
 
+- (**Chinese**) [CppCon 2014-2016 选荐合辑](http://gulu-dev.com/post/2016-11-06-awesome-cppcon)
 - (**Chinese**) [[CppCon 2015] "Memory and C++ debugging at EA" 实录](http://gulu-dev.com/post/2015-10-11-memory-debugging)
 - (**Chinese**) [CppCon2014 分类合辑 & 十大推荐阅读列表](http://gulu-dev.com/post/2014-09-23-cppcon14)
 
