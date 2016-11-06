@@ -1,10 +1,12 @@
 
 ## CppCon 2016
 
-- [(official) slide collections](https://github.com/CppCon/CppCon2016)
-- [(official) video collections](https://www.youtube.com/playlist?list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH)
+### CppCon 2016 Official Collections
 
-## Gu Lu's Picked List
+- [CppCon 2016 slide collections](https://github.com/CppCon/CppCon2016)
+- [CppCon 2016 video collections](https://www.youtube.com/playlist?list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH)
+
+### CppCon 2016 Bookmarked and Starred Sessions  (personally picked by Gu Lu)
 
 - :star: 'must-reads' in this list (8 out of 18).
 
@@ -32,6 +34,28 @@ Tags | Category | Title | Note
 - Pull-requests are welcome. 
 - Prefer lightweight facilities to heavyweight libraries/frameworks (like boost/qt/etc.).
 - Prefer immediately adoptable practices to underground theoretical implementation details.
+
+## CppCon 2015
+
+- [CppCon 2015](https://github.com/CppCon/CppCon2015) ([videos (youtube)](https://www.youtube.com/playlist?list=PLHTh1InhhwT75gykhs7pqcR_uSiG601oh))
+
+
+## CppCon 2014
+
+- [CppCon 2014](https://github.com/CppCon/CppCon2014) ([videos (channel9)](https://channel9.msdn.com/events/cpp/c-pp-con-2014))
+
+### CppCon 2014 Top10 List (personally picked by Gu Lu)
+
+- [Make Simple Tasks Simple - Bjarne Stroustrup](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Make%20Simple%20Tasks%20Simple)
+- [The Canonical Class - Michael Caisse](https://github.com/CppCon/CppCon2014/tree/master/Presentations/The%20Canonical%20Class)
+- [Back to the Basics! Essentials of Modern C++ Style - Herb Sutter](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style)
+- [Modernizing Legacy C++ Code - Gregory and McNellis](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Modernizing%20Legacy%20C%2B%2B%20Code)
+- [C++ in Huge AAA Games - Nicolas Fleury](https://github.com/CppCon/CppCon2014/tree/master/Presentations/C%2B%2B%20in%20Huge%20AAA%20Games)
+- [C++ On Mars - Mark Maimone](https://github.com/CppCon/CppCon2014/tree/master/Presentations/C%2B%2B%20on%20Mars%20-%20Incorporating%20C%2B%2B%20into%20Mars%20Rover%20Flight%20Software)
+- [Sanitize your C++ code - Kostya Serebryany](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Sanitize%20your%20C%2B%2B%20code)
+- [The Philosophy of Google's C++ Style Guide - Titus Winters](https://github.com/CppCon/CppCon2014/tree/master/Presentations/The%20Philosophy%20of%20Google's%20C%2B%2B%20Style%20Guide)
+- [Unicode in C++ - McNellis](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Unicode%20in%20C%2B%2B)
+- [Where did my performance go - Fedor Pikus](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Where%20did%20my%20performance%20go)
 
 [chrono]: https://github.com/CppCon/CppCon2016/blob/master/Tutorials/A%20chrono%20Tutorial/A%20chrono%20Tutorial%20-%20Howard%20Hinnant%20-%20CppCon%202016.pdf
 [chrono_video]: https://www.youtube.com/watch?v=P32hvk8b13M
