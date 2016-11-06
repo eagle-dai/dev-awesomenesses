@@ -22,9 +22,9 @@ Tags | Category | Title | Note
 :star: | Tutorial | [**accumulate - Exploring an Algorithmic Empire**][accumulate] by Ben Deane ([video][accumulate_video]) | 
 :star: | Tutorial | [**Variadic expansion in examples**][variadic] by Michał Dominiak ([video][variadic_video]) | 
  | Library | [**BDE Libraries - An Orientation**][bde] by Steven Breitstein ([video][bde_video]) | [BDE Wiki][bde_ref]
- | Library | [**The Blaze High Performance Math Library**][blaze] by Klaus Iglberger ([video][blaze_video]) | [repo][blaze_repo]
+ | Library | [**The Blaze High Performance Math Library**][blaze] by Klaus Iglberger ([video][blaze_video]) | [repository][blaze_repo]
 :star: | Tool | [**Conan - C and C++ package manager**][conan] by Diego Rodriguez-Losada ([video][conan_video]) | [conan.io][conan_io]
-:star: | Tool | [**uftrace - A function graph tracer C C++ userspace programs**][uftrace] by Namhyung Kim and Honggyu Kim ([video][uftrace_video]) | [GitHub Repo][uftrace_repo]
+:star: | Tool | [**uftrace - A function graph tracer C C++ userspace programs**][uftrace] by Namhyung Kim and Honggyu Kim ([video][uftrace_video]) | [repository][uftrace_repo]
  | Practice | [**Out of memory - Business as usual**][oom] by Sergey Zubkov (video: N/A) | 
  | Practice | [**The Exception Situation**][exception] by Patrice Roy ([video][exception_video]) | 
 :star: | Practice | [**What is the basic interface**][interface] by Lisa Lippincott (video [part1][interface_video1] [part2][interface_video2]) | 
