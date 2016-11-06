@@ -39,7 +39,6 @@ Tags | Category | Title | Note
 
 - [CppCon 2015 slides](https://github.com/CppCon/CppCon2015) and [videos (youtube)](https://www.youtube.com/playlist?list=PLHTh1InhhwT75gykhs7pqcR_uSiG601oh)
 
-
 ## CppCon 2014
 
 - [CppCon 2014 slides](https://github.com/CppCon/CppCon2014) and [videos (channel9)](https://channel9.msdn.com/events/cpp/c-pp-con-2014)
@@ -56,6 +55,12 @@ Tags | Category | Title | Note
 - [The Philosophy of Google's C++ Style Guide - Titus Winters](https://github.com/CppCon/CppCon2014/tree/master/Presentations/The%20Philosophy%20of%20Google's%20C%2B%2B%20Style%20Guide)
 - [Unicode in C++ - McNellis](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Unicode%20in%20C%2B%2B)
 - [Where did my performance go - Fedor Pikus](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Where%20did%20my%20performance%20go)
+
+## Featured Articles (mostly in Chinese)
+
+- (**Chinese**) [[CppCon 2015] "Memory and C++ debugging at EA" 实录](http://gulu-dev.com/post/2015-10-11-memory-debugging)
+- (**Chinese**) [CppCon2014 分类合辑 & 十大推荐阅读列表](http://gulu-dev.com/post/2014-09-23-cppcon14)
+
 
 [chrono]: https://github.com/CppCon/CppCon2016/blob/master/Tutorials/A%20chrono%20Tutorial/A%20chrono%20Tutorial%20-%20Howard%20Hinnant%20-%20CppCon%202016.pdf
 [chrono_video]: https://www.youtube.com/watch?v=P32hvk8b13M
