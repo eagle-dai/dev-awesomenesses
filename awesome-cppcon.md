@@ -3,12 +3,10 @@
 
 - Pull-requests are welcome. 
 - Prefer lightweight facilities to heavyweight libraries/frameworks (like boost/qt/etc.).
-- Prefer immediately adoptable practices to underground theoretical implementation details.
+- Prefer immediately adoptable practices to theoretic discussions/implementation details.
 
-### CppCon 2016 Official Collections
-
-- [CppCon 2016 slide collections](https://github.com/CppCon/CppCon2016)
-- [CppCon 2016 video collections](https://www.youtube.com/playlist?list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH)
+- [(Official) CppCon 2016 slide collections](https://github.com/CppCon/CppCon2016)
+- [(Official) CppCon 2016 video collections](https://www.youtube.com/playlist?list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH)
 
 ### CppCon 2016 Classified Sessions  (picked personally)
 
