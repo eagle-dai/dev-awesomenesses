@@ -10,7 +10,7 @@
 - [CppCon 2016 slide collections](https://github.com/CppCon/CppCon2016)
 - [CppCon 2016 video collections](https://www.youtube.com/playlist?list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH)
 
-### CppCon 2016 Classified Sessions  (personally picked by Gu Lu)
+### CppCon 2016 Classified Sessions  (picked personally)
 
 - :star: 'must-reads' in this list (8 out of 18).
 
@@ -44,7 +44,7 @@ Tags | Category | Title | Note
 
 - [CppCon 2014 slides](https://github.com/CppCon/CppCon2014) and [videos (channel9)](https://channel9.msdn.com/events/cpp/c-pp-con-2014)
 
-### CppCon 2014 Top10 List (personally picked by Gu Lu)
+### CppCon 2014 Top10 List (picked personally)
 
 - [Make Simple Tasks Simple - Bjarne Stroustrup](https://github.com/CppCon/CppCon2014/tree/master/Presentations/Make%20Simple%20Tasks%20Simple)
 - [The Canonical Class - Michael Caisse](https://github.com/CppCon/CppCon2014/tree/master/Presentations/The%20Canonical%20Class)
