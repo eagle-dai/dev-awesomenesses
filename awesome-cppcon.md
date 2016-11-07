@@ -4,7 +4,6 @@
 - Pull-requests are welcome. 
 - Prefer lightweight facilities to heavyweight libraries/frameworks (like boost/qt/etc.).
 - Prefer immediately adoptable practices to theoretic discussions/implementation details.
-
 - [(Official) CppCon 2016 slide collections](https://github.com/CppCon/CppCon2016)
 - [(Official) CppCon 2016 video collections](https://www.youtube.com/playlist?list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH)
 
@@ -33,12 +32,9 @@ Tags | Category | Title | Note
 :star: | GameDev/Opt | [**Rainbow Six Siege - Quest for Performance**][r6] by Nicolas Fleury ([video][r6_video]) | 
  | General | [**The Evolution of C++ - Past, Present, and Future**][bj] by Bjarne Stroustrup ([video][bj_video]) | 
 
-## CppCon 2015
+## CppCon 2015/2014
 
 - [CppCon 2015 slides](https://github.com/CppCon/CppCon2015) and [videos (youtube)](https://www.youtube.com/playlist?list=PLHTh1InhhwT75gykhs7pqcR_uSiG601oh)
-
-## CppCon 2014
-
 - [CppCon 2014 slides](https://github.com/CppCon/CppCon2014) and [videos (channel9)](https://channel9.msdn.com/events/cpp/c-pp-con-2014)
 
 ### CppCon 2014 Top10 List (picked personally)
