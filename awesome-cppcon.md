@@ -3,12 +3,9 @@
 
 - Pull-requests are welcome. 
 - Prefer lightweight facilities to heavyweight libraries/frameworks (like boost/qt/etc.).
-- Prefer immediately adoptable practices to underground theoretical implementation details.
-
-### CppCon 2016 Official Collections
-
-- [CppCon 2016 slide collections](https://github.com/CppCon/CppCon2016)
-- [CppCon 2016 video collections](https://www.youtube.com/playlist?list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH)
+- Prefer immediately adoptable practices to theoretic discussions/implementation details.
+- [(Official) CppCon 2016 slide collections](https://github.com/CppCon/CppCon2016)
+- [(Official) CppCon 2016 video collections](https://www.youtube.com/playlist?list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH)
 
 ### CppCon 2016 Classified Sessions  (picked personally)
 
@@ -22,9 +19,9 @@ Tags | Category | Title | Note
 :star: | Tutorial | [**accumulate - Exploring an Algorithmic Empire**][accumulate] by Ben Deane ([video][accumulate_video]) | 
 :star: | Tutorial | [**Variadic expansion in examples**][variadic] by Michał Dominiak ([video][variadic_video]) | 
  | Library | [**BDE Libraries - An Orientation**][bde] by Steven Breitstein ([video][bde_video]) | [BDE Wiki][bde_ref]
- | Library | [**The Blaze High Performance Math Library**][blaze] by Klaus Iglberger ([video][blaze_video]) | [repo][blaze_repo]
+ | Library | [**The Blaze High Performance Math Library**][blaze] by Klaus Iglberger ([video][blaze_video]) | [repository][blaze_repo]
 :star: | Tool | [**Conan - C and C++ package manager**][conan] by Diego Rodriguez-Losada ([video][conan_video]) | [conan.io][conan_io]
-:star: | Tool | [**uftrace - A function graph tracer C C++ userspace programs**][uftrace] by Namhyung Kim and Honggyu Kim ([video][uftrace_video]) | [GitHub Repo][uftrace_repo]
+:star: | Tool | [**uftrace - A function graph tracer C C++ userspace programs**][uftrace] by Namhyung Kim and Honggyu Kim ([video][uftrace_video]) | [repository][uftrace_repo]
  | Practice | [**Out of memory - Business as usual**][oom] by Sergey Zubkov (video: N/A) | 
  | Practice | [**The Exception Situation**][exception] by Patrice Roy ([video][exception_video]) | 
 :star: | Practice | [**What is the basic interface**][interface] by Lisa Lippincott (video [part1][interface_video1] [part2][interface_video2]) | 
@@ -35,12 +32,9 @@ Tags | Category | Title | Note
 :star: | GameDev/Opt | [**Rainbow Six Siege - Quest for Performance**][r6] by Nicolas Fleury ([video][r6_video]) | 
  | General | [**The Evolution of C++ - Past, Present, and Future**][bj] by Bjarne Stroustrup ([video][bj_video]) | 
 
-## CppCon 2015
+## CppCon 2015/2014
 
 - [CppCon 2015 slides](https://github.com/CppCon/CppCon2015) and [videos (youtube)](https://www.youtube.com/playlist?list=PLHTh1InhhwT75gykhs7pqcR_uSiG601oh)
-
-## CppCon 2014
-
 - [CppCon 2014 slides](https://github.com/CppCon/CppCon2014) and [videos (channel9)](https://channel9.msdn.com/events/cpp/c-pp-con-2014)
 
 ### CppCon 2014 Top10 List (picked personally)
@@ -58,6 +52,7 @@ Tags | Category | Title | Note
 
 ## Featured Articles (mostly in Chinese)
 
+- (**Chinese**) [CppCon 2014-2016 选荐合辑](http://gulu-dev.com/post/2016-11-06-awesome-cppcon)
 - (**Chinese**) [[CppCon 2015] "Memory and C++ debugging at EA" 实录](http://gulu-dev.com/post/2015-10-11-memory-debugging)
 - (**Chinese**) [CppCon2014 分类合辑 & 十大推荐阅读列表](http://gulu-dev.com/post/2014-09-23-cppcon14)
 
