@@ -31,6 +31,7 @@ Tags | Category | Title | Note
 :star: | GameDev | [**Game Engine Using C++11**][game_engine] by Jason Jurecka(Blizzard) ([video][game_engine_video]) | 
 :star: | GameDev/Opt | [**Rainbow Six Siege - Quest for Performance**][r6] by Nicolas Fleury ([video][r6_video]) | 
  | General | [**The Evolution of C++ - Past, Present, and Future**][bj] by Bjarne Stroustrup ([video][bj_video]) | 
+:star: | GameDev/Opt | [**High Performance Code 201: Hybrid Data Structures**][r6] by Chandler Carruth ([video][r7_video]) | 
 
 ## CppCon 2015/2014
 
@@ -108,6 +109,8 @@ Tags | Category | Title | Note
 
 [r6]: https://github.com/CppCon/CppCon2016/blob/master/Presentations/Rainbow%20Six%20Siege%20-%20Quest%20for%20Performance/Rainbow%20Six%20Siege%20-%20Quest%20for%20Performance%20-%20Nicolas%20Fleury%20-%20CppCon%202016.pdf
 [r6_video]: https://www.youtube.com/watch?v=tD4xRNB0M_Q&index=95&list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH
+
+[r7_video]: https://www.youtube.com/watch?v=vElZc6zSIXM
 
 [concurrency]: https://github.com/CppCon/CppCon2016/blob/master/Presentations/The%20Continuing%20Future%20of%20Concurrency%20in%20C++/The%20Continuing%20Future%20of%20Concurrency%20in%20C++%20-%20Anthony%20Williams%20-%20CppCon%202016.pdf
 [concurrency_video]: https://www.youtube.com/watch?v=FaHJOkOrfNo&index=50&list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH
